@@ -1,2 +1,2 @@
 # HoloAi-
-This repository contains all stuff of my project HoloAi
+This repository contains all stuff of our project HoloAi
